@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+<!--Final year student with a degree in artificial intelligence engineering seeking entry-level internship opportunities in the field of Data/Business Analytics. Skilled in data mining, visualization, and statistical analysis using tools such as SQL, Excel, and Python. Passionate about solving complex problems and turning data into insights to drive business decisions. Excited to bring my strong analytical skills and team-oriented approach to a data-driven organisation.
 **rjthrajesh/rjthrajesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rjthrajesh&show_icons=true&theme=tokyonight)
