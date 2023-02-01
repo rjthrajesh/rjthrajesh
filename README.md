@@ -1,8 +1,12 @@
-### Hi there 👋
+### Hi there 👋 IM RAJATH
 
-<!--Final year student with a degree in artificial intelligence engineering seeking entry-level internship opportunities in the field of Data/Business Analytics. Skilled in data mining, visualization, and statistical analysis using tools such as SQL, Excel, and Python. Passionate about solving complex problems and turning data into insights to drive business decisions. Excited to bring my strong analytical skills and team-oriented approach to a data-driven organisation.
+<!--
 **rjthrajesh/rjthrajesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+## 🧰 Languages and Tools:
+<p align="center">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/SQL/SQL.png" alt="SQL" height="40" style="vertical-align:top; margin:4px">
+</p>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
