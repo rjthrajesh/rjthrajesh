@@ -38,11 +38,6 @@ An ASK MY DOCS system that uses Dense and Sparse Vector search along with cross-
 Build a small GPT from scratch to gain expertise about fine-tuning and advanced model architecture.
 `Python` · [View repo](#)
 
----
-
-## 📈 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rjthrajesh&show_icons=true&theme=tokyonight)
 
 ---
 
