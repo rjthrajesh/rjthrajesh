@@ -1,21 +1,49 @@
-### Hi there 👋 IM RAJATH
+# Hi there, I'm Rajath 👋
 
-<!--
-**rjthrajesh/rjthrajesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-## 🧰 Languages and Tools:
-<p align="center">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/SQL/SQL.png" alt="SQL" height="40" style="vertical-align:top; margin:4px">
-</p>
-Here are some ideas to get you started:
+> Freelance ML & Data Engineer · Python · AI/ML
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 About me
+
+Freelance data & ML engineer who turns raw data into working models.  
+I build end-to-end pipelines, train and deploy ML models, and help clients make sense of their data.
+
+- 🔭 Currently: taking on freelance ML & data engineering projects
+- 🌱 Learning: LLM fine-tuning, MLOps best practices
+- 💬 Ask me about: Python, data pipelines, machine learning
+- 📫 Reach me: rjthrajesh2001@gmail.com
+
+---
+
+## 🛠️ Skills & Tools
+
+| Category | Tools |
+|---|---|
+| Language | Python |
+| ML / AI | scikit-learn, PyTorch, Hugging Face |
+| Data | Pandas, NumPy, SQL, BigQuery |
+| Viz | Matplotlib, Seaborn, Plotly |
+| Cloud / MLOps | AWS, Docker, Git |
+
+---
+
+## 🚀 Featured Projects
+
+### 📊 RAG
+An ASK MY DOCS system that uses Dense and Sparse Vector search along with cross-encoder reranking for an enhanced retrieval.
+`Python`,`Node.js` · [View repo](#)
+
+### 🤖 GPT from scratch
+Build a small GPT from scratch to gain expertise about fine-tuning and advanced model architecture.
+`Python` · [View repo](#)
+
+---
+
+## 📈 GitHub Stats
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rjthrajesh&show_icons=true&theme=tokyonight)
+
+---
+
+*Open to freelance projects — let's build something.*
